@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bộ vệ sinh bàn phím cơ &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/bo-ve-sinh-ban-phim-co/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nhantruong0411.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Sep 2021 09:47:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Bộ vệ sinh bàn phím cơ Filco (Tenkeyless)</title>
+		<link>https://nhantruong0411.github.io/mywordpress/product/bo-ve-sinh-ban-phim-co-filco-tenkeyless/</link>
+					<comments>https://nhantruong0411.github.io/mywordpress/product/bo-ve-sinh-ban-phim-co-filco-tenkeyless/#respond</comments>
+		
+		<dc:creator><![CDATA[truonghuunhan]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 07:25:36 +0000</pubDate>
+				<guid isPermaLink="false">https://nhantruong0411.github.io/mywordpress/?post_type=product&#038;p=572</guid>
+
+					<description><![CDATA[Là thương hiệu bàn phím cơ đến từ Nhật Bản, Filco được ra đời từ năm 1992. Đến nay, Filco nổi tiếng với các bàn phím cơ sử dụng switch Cherry và thời gian bảo hành lên đến 5 năm. Filco còn có các sản phẩm bổ trợ người sử dụng như KOBO Studio, kê [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="te_brand_img col-xl-3 col-lg-4"><img class="img img-fluid te_product_brand_img alignleft" src="https://d1vm37nfym7tjl.cloudfront.net/web/image/product.brand.ept/41/logo/Filco?unique=749dfa3" alt="Filco" /></div>
+<div class=" col-xl-9 col-lg-8 col-sm col">
+<p class="te_product_brand_desc">Là thương hiệu bàn phím cơ đến từ Nhật Bản, Filco được ra đời từ năm 1992. Đến nay, Filco nổi tiếng với các bàn phím cơ sử dụng switch Cherry và thời gian bảo hành lên đến 5 năm. Filco còn có các sản phẩm bổ trợ người sử dụng như KOBO Studio, kê tay, keycap,&#8230; tạo nên hệ sinh thái và trải nghiệm sản phẩm hoàn thiện cho người tiêu dùng.</p>
+<p><img loading="lazy" class="wp-image-573 aligncenter" src="https://nhantruong0411.github.io/mywordpress/wp-content/uploads/2021/09/Capture.png" alt="" width="1802" height="980" /></p>
+<p><img loading="lazy" class="wp-image-574 aligncenter" src="https://nhantruong0411.github.io/mywordpress/wp-content/uploads/2021/09/Capture1.png" alt="" width="2116" height="765" /></p>
+<p><img loading="lazy" class="wp-image-575 aligncenter" src="https://nhantruong0411.github.io/mywordpress/wp-content/uploads/2021/09/Capture2.png" alt="" width="1829" height="1283" /></p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nhantruong0411.github.io/mywordpress/product/bo-ve-sinh-ban-phim-co-filco-tenkeyless/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
