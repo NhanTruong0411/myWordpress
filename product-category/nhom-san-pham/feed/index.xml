@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Nhóm sản phẩm &#8211; My WordPress</title>
+	<title>Nhóm sản phẩm</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-category/nhom-san-pham/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhantruong0411.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Mon, 27 Sep 2021 12:56:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>

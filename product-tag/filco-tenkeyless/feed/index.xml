@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Filco (Tenkeyless) &#8211; My WordPress</title>
+	<title>Filco (Tenkeyless)</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/filco-tenkeyless/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhantruong0411.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Fri, 24 Sep 2021 09:47:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
